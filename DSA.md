@@ -51,3 +51,89 @@ The world of programming is constantly evolving, and new programming languages a
 ## Conclusion
 
 Programming languages are an essential tool in the world of computers. They allow humans to communicate with computers and create software, applications, and websites. There are several types of programming languages, each designed for a specific purpose, and the world of programming is constantly evolving with new languages being developed. As we continue to rely more on technology, programming languages will continue to be an integral part of our lives.
+
+# Chapter 2: Introduction to Data
+
+## Introduction
+
+Data is simply information or facts that can be collected and used for various purposes. It has been used throughout history to make decisions, but with technological advancements, data has become more accessible and essential than ever before. In this chapter, we will discuss what data is and why it is vital, as well as ways to store it.
+
+### Examples of Data in the Real World
+
+- **Sales data:** Companies collect sales data to analyze their revenue, understand customer behavior, and optimize their marketing and sales strategies.
+- **Health data:** Healthcare providers collect data on patient health to monitor and diagnose medical conditions, track treatment outcomes, and inform public health policies.
+- **Weather data:** Weather agencies collect data on temperature, humidity, precipitation, wind speed, and other weather conditions to predict weather patterns and issue weather warnings.
+- **Financial data:** Financial institutions collect data on stock prices, economic indicators, and financial transactions to inform investment decisions and manage financial risks.
+- **Social media data:** Social media platforms collect data on user behavior, preferences, and interactions to personalize content and ads, and to inform product development and marketing strategies.
+
+## Importance of Data
+
+Data has always been a part of human history, used to make decisions. With the rise of computers and the internet, data has become more accessible and essential than ever before. Data is important because it provides information about people, objects, or anything else we want to study or understand. In today's world, we are generating a lot of data every second, which can help us measure and understand general trends and patterns.
+
+### DIKE Model
+
+Data, information, knowledge, and experience are interconnected and build upon each other to create a deeper understanding and practical application of the world around us. Data is the raw material of information, which leads to knowledge, and is applied through experience. This creates a feedback loop that continually builds upon itself.
+
+## How/Where to Store Data
+
+### Without a Computer
+
+- **Files**
+- **Tree and Leaves**
+- **Stones**
+- **Walls**
+
+Storing data has evolved over time. Previously, data was stored on paper or other physical media, but today, data is primarily stored digitally, either on local storage devices like hard drives or in the cloud.
+
+## Data Types vs Data Structures
+
+### Data Types
+
+Data types refer to the different kinds of data that can be stored in a computer program. Examples include integers, floating-point numbers, characters, strings, and booleans. Data types are used to define variables and functions in a programming language.
+
+### Data Structures
+
+Data structures are used to organize and store data in a computer program. Examples include arrays, linked lists, stacks, queues, trees, graphs, and heaps. Data structures are used to represent complex relationships between data elements and to facilitate efficient access and manipulation of data.
+
+### Basic or Primitive Data Types
+
+Examples:
+- **Integer**
+- **Float**
+- **Character**
+- **Boolean**
+
+### Composite or Non-Primitive Data Types
+
+Examples:
+- **Array**
+- **List**
+- **Tree**
+- **Graph**
+
+## Linear and Non-linear Data Structures
+
+### Linear Data Structures
+
+- **Arrays**
+- **Linked Lists**
+- **Stacks**
+- **Queues**
+
+### Non-linear Data Structures
+
+- **Trees**
+- **Graphs**
+- **Heaps**
+
+## Abstract Data Type (ADT)
+
+An Abstract Data Type (ADT) is a way of organizing and manipulating data without worrying about how it's stored in memory or accessed by the computer. It provides a blueprint for a data structure, defining its behavior without specifying implementation details.
+
+### Real-world and Computer Science Data Types
+
+There are various ways to store data in the real world, including text, images, video, audio, and more. Similarly, in the field of computer science, we have different data types that are used to store various kinds of data. These data types are fundamental to programming languages and are crucial for effective data management and processing in computer systems. The different types of data types commonly used in computer science include strings, numbers, lists, dictionaries, and more.
+
+## Conclusion
+
+In conclusion, data is vital because it provides valuable insights that can be used to make informed decisions. With advancements in technology, data has become more accessible than ever before, and storing it digitally has become the norm. By understanding what data is and how to store it, businesses and individuals can make the most of the information available to them.
