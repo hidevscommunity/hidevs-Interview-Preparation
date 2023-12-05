@@ -6,7 +6,7 @@ This document provides a set of interview questions covering various Python topi
 
 ### 1. List
    - How do you reverse a list in Python?
-   - Explain the difference between `append()` and `extend()` methods in lists.
+   - Explain the difference between append() and extend() methods in lists.
    - What is list comprehension, and how is it used?
 
 ### 2. Set
@@ -16,13 +16,13 @@ This document provides a set of interview questions covering various Python topi
 
 ### 3. Dictionary
    - How do you iterate over the items of a dictionary?
-   - Explain the use of the `get()` method in dictionaries.
+   - Explain the use of the get() method in dictionaries.
    - How can you merge two dictionaries in Python 3.5 and above?
 
 ### 4. String
    - How do you reverse a string in Python?
    - Explain the difference between string and bytes in Python.
-   - What is the purpose of the `join()` method for strings?
+   - What is the purpose of the join() method for strings?
 
 ### 5. Tuple
    - Can you modify a tuple after it has been created?
@@ -32,18 +32,18 @@ This document provides a set of interview questions covering various Python topi
 ## Python Concepts
 
 ### 6. Exception Handling
-   - What is the purpose of the `finally` block in exception handling?
+   - What is the purpose of the finally block in exception handling?
    - How do you raise a custom exception in Python?
-   - Explain the difference between `try-except` and `try-except-else` blocks.
+   - Explain the difference between try-except and try-except-else blocks.
 
 ### 7. Loops
-   - How does a `while` loop differ from a `for` loop?
-   - Explain the `break` and `continue` statements in loops.
+   - How does a while loop differ from a for loop?
+   - Explain the break and continue statements in loops.
    - How can you iterate over a sequence with its index?
 
 ### 8. If-Else
-   - Explain the difference between `==` and `is` operators in Python.
-   - How do you use multiple conditions in an `if` statement?
+   - Explain the difference between == and is operators in Python.
+   - How do you use multiple conditions in an if statement?
    - What is the purpose of the ternary operator in Python?
 
 ### 9. Functions
@@ -54,7 +54,7 @@ This document provides a set of interview questions covering various Python topi
 ### 10. Decorator
     - What is a decorator in Python?
     - How can you create a decorator that takes arguments?
-    - Explain the `functools.wraps` decorator and its significance.
+    - Explain the functools.wraps decorator and its significance.
 
 ### 11. Generator
     - What is a generator in Python?
@@ -64,9 +64,9 @@ This document provides a set of interview questions covering various Python topi
 ### 12. Test Driven Development (TDD)
     - What is Test Driven Development (TDD)?
     - Explain the importance of unit tests in TDD.
-    - How do you use the `unittest` module for testing in Python?
+    - How do you use the unittest module for testing in Python?
 
 ### 13. Virtual Environment
     - Why would you use a virtual environment in Python?
-    - How do you create a virtual environment using `virtualenv`?
-    - What is the purpose of the `requirements.txt` file in a virtual environment?
+    - How do you create a virtual environment using virtualenv?
+    - What is the purpose of the requirements.txt file in a virtual environment?
