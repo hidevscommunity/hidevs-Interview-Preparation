@@ -9,18 +9,19 @@ Programming languages (PL) are a set of instructions that a computer can interpr
 Programming languages are needed to give instructions to computers and other machines, allowing us to automate tasks, build software applications, and perform complex calculations. Without programming languages, it would be extremely difficult and time-consuming for humans to communicate with computers using only machine language or binary code.
 
 If we didn't have programming languages, it would be incredibly challenging to create modern technology. For example, let's say a developer is tasked with creating a software application without the use of a programming language. They would have to write code using machine language, which is a sequence of binary digits that is interpreted directly by the computer's hardware. This would involve understanding the computer's architecture and the way in which it processes data, which is a highly technical and time-consuming process.
+![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/5ad7f0fb-7bc2-4661-acaa-24fdc006790a)
 
 Coding in machine language would be extremely difficult for humans because it requires a deep understanding of the computer's hardware and architecture. This would make software development an extremely time-consuming and error-prone process, which would limit the speed and effectiveness of technological advancement.
 
-In addition to being difficult for developers, using machine language to program computers would also make it much harder for non-technical people to use computers. For example, imagine having to type out a sequence of binary digits to open a word processor or check your email. This would be an incredibly difficult and time-consuming process that would limit the number of people who could use computers effectively.
+In addition to being difficult for developers, using machine language to program computers would also make it much harder for non-technical people to use computers. For example, imagine having to type out a sequence of binary digits to open a word processor or check your email. This would be a quite difficult and time-consuming process that would limit the number of people who could use computers effectively.
 
-In short, programming languages are essential for creating modern technology and making it accessible to people. Without programming languages, software development would be incredibly challenging and time-consuming, and using computers would be much more difficult and inaccessible for non-technical people.
+In summary, programming languages are essential for creating modern technology and making it accessible to people. Without programming languages, software development would be incredibly challenging and time-consuming, and using computers would be much more difficult and inaccessible for non-technical users.
 
 ### Applications of Programming Languages
 
 Programming languages are used in a wide variety of applications, including:
 
-- **Software development:** Programming languages are used to develop a wide range of software applications, from mobile apps and desktop software to web applications and video games.
+- **Software development:** Programming languages are used to develop a wide range of software applications, from mobile applications and desktop software to web applications and video games.
 - **Data analysis and scientific computing:** Programming languages like Python, R, and MATLAB are commonly used in data analysis and scientific computing, where they are used to process and analyze large datasets, perform statistical analysis, and build predictive models.
 - **Artificial Intelligence and Machine Learning:** Programming languages like Python and R are commonly used in artificial intelligence and machine learning applications, where they are used to build neural networks and other complex algorithms.
 - **Web Development:** Programming languages like HTML, CSS, and JavaScript are used to develop and design websites, web applications, and interactive user interfaces.
@@ -38,6 +39,9 @@ There are several types of programming languages, and they can be classified bas
 - **Object-Oriented Programming Languages:** These languages are designed to model real-world objects and their interactions. Examples include Java, C++, and Python.
 - **Functional Programming Languages:** These languages are designed to focus on functions and how they can be used to solve problems. Examples include Haskell, Lisp, and ML.
 - **Scripting Languages:** These languages are designed to be interpreted and executed by other programs. Examples include JavaScript, Python, and Ruby.
+ Here is a flow chart representing different programming languages:
+ ![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/cc8cc7a9-c730-4045-8ef3-59e322ad57d0)
+
 
 ### Current Trending Programming Languages
 
@@ -65,6 +69,8 @@ Data is simply information or facts that can be collected and used for various p
 - **Weather data:** Weather agencies collect data on temperature, humidity, precipitation, wind speed, and other weather conditions to predict weather patterns and issue weather warnings.
 - **Financial data:** Financial institutions collect data on stock prices, economic indicators, and financial transactions to inform investment decisions and manage financial risks.
 - **Social media data:** Social media platforms collect data on user behavior, preferences, and interactions to personalize content and ads, and to inform product development and marketing strategies.
+  ![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/0bfe678e-eef1-49a2-b05b-bad28605d1b5)
+
 
 ## Importance of Data
 
@@ -94,6 +100,8 @@ Data types refer to the different kinds of data that can be stored in a computer
 ### Data Structures
 
 Data structures are used to organize and store data in a computer program. Examples include arrays, linked lists, stacks, queues, trees, graphs, and heaps. Data structures are used to represent complex relationships between data elements and to facilitate efficient access and manipulation of data.
+![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/96fe3a7c-c0bc-414a-b09e-337c3d15de59)
+
 
 ### Basic or Primitive Data Types
 
@@ -111,6 +119,9 @@ Examples:
 - **Tree**
 - **Graph**
 
+  ![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/db95d93a-e8eb-479e-ba56-7175a9b4f2b7)
+
+
 ## Linear and Non-linear Data Structures
 
 ### Linear Data Structures
@@ -125,6 +136,9 @@ Examples:
 - **Trees**
 - **Graphs**
 - **Heaps**
+
+  ![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/c4d890f9-df98-4385-86d7-a5f605fe0e76)
+
 
 ## Abstract Data Type (ADT)
 
@@ -143,6 +157,9 @@ In conclusion, data is vital because it provides valuable insights that can be u
 ## What is an Algorithm?
 
 Algorithms are everywhere around us. From following a recipe to playing a game, we use algorithms to accomplish tasks and solve problems in our everyday lives. An algorithm is simply a set of instructions or steps that are used to achieve a specific goal or solve a particular problem. Algorithms can be found in various fields such as computer science, mathematics, and engineering, and even in our daily routines.
+
+![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/2f0fd98e-cebf-4273-a127-5ecb716cbba9)
+
 
 Algorithms are a fundamental aspect of our lives, permeating every domain of human activity. Whether we are stuck in traffic, commuting from home to work, or grappling with complex problems, algorithms offer a systematic approach to problem-solving. To effectively address these challenges, we need to break them down into a set of steps or instructions that guide us towards a solution.
 
@@ -164,6 +181,9 @@ Writing an algorithm may seem like a technical and complex task, but it can be b
 4. **Use visual aids:** Use visual aids such as diagrams or flowcharts to illustrate each step. For example, a flowchart could show the user the order in which each step should be completed.
 5. **Keep it simple:** Use simple language that the user can understand. Avoid technical jargon or complex terminology. For example, instead of using the term "brew time," you could simply say "wait for the coffee to steep."
 6. **Test the algorithm:** Once you have written the algorithm, test it to make sure it works as intended. Make any necessary adjustments based on feedback from users.
+
+   ![image](https://github.com/hidevscommunity/hidevs-Interview-Preparation/assets/130182096/01c374f8-0a77-4858-ac3c-156c3aa35505)
+
 
 By following these tips, you can write an algorithm that is easy for layman users to understand and use. Remember to use real-world examples and analogies, keep it simple, and use visual aids to illustrate each step.
 
