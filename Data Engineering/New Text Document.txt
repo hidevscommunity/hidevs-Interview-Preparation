@@ -1,0 +1,31 @@
+•	Explain the differences between dimensional modeling and fact-based modeling.
+•	Describe the star schema and snowflake schema for data warehouse design.
+•	How do you handle denormalization in data warehousing?
+•	What are some key considerations for designing a data warehouse for performance and scalability?
+•	Explain the concept of data lineage and its importance in data warehouses.
+Specific Technologies:
+
+•	Describe your experience with specific data pipeline orchestration tools (e.g., Airflow, Luigi, Prefect).
+•	Explain your understanding of distributed computing frameworks like Spark or Hadoop.
+•	How do you utilize SQL and NoSQL databases in your data engineering work?
+•	Describe your experience with cloud-based data storage solutions like S3, Azure Blob Storage, or Google Cloud Storage.
+•	Explain your understanding of data visualization tools like Tableau or Power BI.
+Optimization and Scalability:
+
+•	How do you optimize data pipelines for performance and resource efficiency?
+•	Describe your approach to scaling data pipelines to handle increasing data volume and complexity.
+•	Explain the concept of data partitioning and its benefits for query performance.
+•	How do you handle data skew in your data pipelines?
+•	Describe your experience with performance testing and benchmarking data pipelines.
+Security and Privacy:
+
+•	Explain how you ensure data security and privacy in your data pipelines.
+•	What are some common data encryption techniques used in data engineering?
+•	How do you handle access control and authorization for data in your pipelines?
+•	Describe your experience with data anonymization and de-identification techniques.
+•	How do you stay up-to-date with the latest security and privacy regulations in your industry?
+Bonus:
+
+•	Share a project where you faced a significant technical challenge and how you overcame it.
+•	Describe a data engineering tool you've built yourself and its benefits.
+•	Explain your approach to continuous integration and continuous delivery (CI/CD) for data pipelines.
