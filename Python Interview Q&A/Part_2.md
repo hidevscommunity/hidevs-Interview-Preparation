@@ -50,9 +50,9 @@
    - Create a recursive function to calculate the factorial of a number.
 
 ### 10. Decorator
-    - Write a decorator that logs the parameters and return value of a function.
-    - Implement a program that uses a decorator to measure the execution time of a function.
-    - Create a decorator that converts the result of a function to uppercase.
+- Write a decorator that logs the parameters and return value of a function.
+- Implement a program that uses a decorator to measure the execution time of a function.
+- Create a decorator that converts the result of a function to uppercase.
 
 ### 11. Generator
     - Write a generator function to generate the Fibonacci sequence.
