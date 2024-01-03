@@ -17,6 +17,7 @@ This repository is a collection of interview preparation materials for various j
 5. **Full Stack Developer**: Get ready for full-stack developer interviews with a comprehensive set of questions.
 
 6. **MLOps**: Delve into questions related to Machine Learning Operations (MLOps) for a successful interview.
+7. **Data Engineering** : Explore questions related to Data engineering interviews
 
 ## How to Use
 
