@@ -22,6 +22,7 @@ Explore various tutorials and resources related to Language Chain.
 ## Articles and References
 
 - [AI Terms Glossary](https://www.scribbr.com/ai-tools/ai-terms-glossary/)
+- [Gen AI Terminology](https://www.moveworks.com/us/en/resources/ai-terms-glossary)
 - [Unfold Data Science YouTube Channel](https://www.youtube.com/watch?v=As3TT3xlddU&list=PLmPJQXJiMoUW7pge9N-J5NQuPcwhzFTfY&ab_channel=UnfoldDataScience)
 - [AWS Foundation Models](https://aws.amazon.com/what-is/foundation-models/)
 - [7 Large Language Model (LLM) APIs](https://nordicapis.com/7-large-language-model-llm-apis/)
