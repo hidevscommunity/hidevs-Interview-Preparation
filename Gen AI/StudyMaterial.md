@@ -18,6 +18,11 @@ Explore various tutorials and resources related to Language Chain.
 - [LangChain Tutorials Playlist](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 - [Gradio Tutorials for UI Purpose](https://www.youtube.com/watch?v=G49c8q3aiQY&list=PLpdmBGJ6ELUJsU8e-B_QwokxOpWjzfYxZ&index=1&ab_channel=1littlecoder)
 - [How to Deploy Gradio App on Hugging Spaces](https://www.youtube.com/watch?v=dzS97S698H0&ab_channel=1littlecoder)
+- [Promptingguide](https://www.promptingguide.ai)
+- [Learnprompting](https://learnprompting.org/docs/intro)
+- [HiDevs workshop by founder video playlist](https://www.youtube.com/playlist?list=PLAr43K7a6OgcBkUABWoexQKuU-OsJakPp)
+- [HiDevs blog writtenr by founder](https://www.hidevscommunity.com/post/harnessing-the-power-of-gen-ai-for-business-transformation)
+- [Langchain use take any one and build the project and deploy on huggingspace](https://python.langchain.com/docs/use_cases)
 
 ## Articles and References
 
